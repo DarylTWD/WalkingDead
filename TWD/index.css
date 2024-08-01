@@ -1,0 +1,72 @@
+body {
+    font-family:serif;
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/129/151/desktop-wallpaper-the-walking-dead-mobile-phone-the-walking-dead-mobile.jpg);
+    background-size:cover;
+}
+.uk-card-title {
+    font-family:serif;
+    font-size: 3rem;
+}
+a {
+    text-decoration: none !important;
+}
+
+.uk-card-body {
+    text-align: center;
+    
+}
+
+.uk-modal-body {
+    text-align: center;
+}
+
+.uk-flex-middle {
+    align-items: center !important;
+}
+
+.uk-container {
+    padding-bottom: 10rem;
+
+}
+
+.uk-margin {
+    margin-bottom: 1px !important;
+}
+
+.uk-button {
+    font-size:2rem;
+    display:contents;
+}
+
+@media (min-width: 640px) {
+    .uk-container {
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 30px;
+    }
+}
+
+.uk-card-secondary {
+    height: 30rem;
+    width: 70rem;
+    
+}
+
+.uk-card-default {
+    background-color: rgb(26, 25, 25);
+}
+.uk-card-default .uk-card-title {
+    color: #8f6767;
+}
+.canvas, img, video {
+    max-width: 20rem;
+    height: 20rem;
+    box-sizing: border-box;
+}
+
+.address, dl, fieldset, figure, ol, p, pre {
+    font-size:1.5rem;
+    margin-left: 20px !important;
+    margin: 0 0 20px 0;
+    color: #8f6767 !important;
+}
